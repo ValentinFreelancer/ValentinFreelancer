@@ -18,7 +18,9 @@ Salut, je suis Valentin, un passionné de Python, de Linux et de sécurité info
 - 🛠️ Sécurité informatique
 
 ## Contact
+
 📧 Email: v.bouras@protonmail.com
+
 🔗 LinkedIn: Valentin B : https://www.linkedin.com/in/valentin-bouras-a184b8269
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question. Let's code and build together! 💻✨
