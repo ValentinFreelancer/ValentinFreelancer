@@ -10,6 +10,7 @@ Salut, je suis Valentin, un passionné de Python, de Linux et de sécurité info
 - 🖥️ Expérience dans la configuration de serveurs à partir de PC de récupération
 
 ## Projets récents
+- 🤖 (Simple_RSS_DISCORD_BOT)[https://github.com/ValentinFreelancer/Discord_SIMPLE_RSS_BOT] 
 - 🚀 Soon ...
 
 ## Mes compétences
