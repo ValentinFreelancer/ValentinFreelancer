@@ -6,7 +6,7 @@ Salut, je suis Valentin, un passionné de Python, de Linux et de sécurité info
 - 👨‍💻 Passionné de programmation en Python
 - 🐧 Utilisateur avancé de Linux
 - 🛡️ Intérêt marqué pour la sécurité informatique
-- 🎮 Amateur de jeux, notamment Minecraft
+- 🎮 Amateur de jeux, notamment World Of Warcraft
 - 🖥️ Expérience dans la configuration de serveurs à partir de PC de récupération
 
 ## Projets récents
